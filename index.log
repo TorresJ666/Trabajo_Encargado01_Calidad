@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600) (preloaded format=pdflatex 2019.8.19)  19 MAY 2020 18:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600) (preloaded format=pdflatex 2019.8.19)  19 MAY 2020 18:10
 entering extended mode
 **./index.tex
 (index.tex
@@ -369,46 +369,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--82
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--82
-
- []
-
 [2]
-Overfull \hbox (3.06544pt too wide) in paragraph at lines 82--82
-[]\OT1/cmr/bx/it/12 Metodologa de Calidad de Desarrollo de Software ISO 25000
- 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--86
-
- []
-
-
-Overfull \hbox (8.74539pt too wide) in paragraph at lines 88--88
+Overfull \hbox (8.74539pt too wide) in paragraph at lines 84--84
 []\OT1/cmr/bx/it/12 Metodologa de Calidad de Desarrollo de Software ISO 33000
 ) 
  []
 
 
-Overfull \hbox (371.78375pt too wide) in paragraph at lines 89--92
+Overfull \hbox (371.78375pt too wide) in paragraph at lines 85--88
 []\OT1/cmr/m/n/12 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--92
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--92
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 
+ []
+
+
+Overfull \hbox (3.06544pt too wide) in paragraph at lines 93--93
+[]\OT1/cmr/bx/it/12 Metodologa de Calidad de Desarrollo de Software ISO 25000
+ 
  []
 
 [3]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 106.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 102.
 
 
 ("/Users/jpacora/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ba
@@ -416,51 +406,51 @@ se/omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 106.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 102.
 
-Overfull \hbox (6.95pt too wide) in paragraph at lines 107--108
+Overfull \hbox (6.95pt too wide) in paragraph at lines 103--104
 \OT1/cmr/m/n/12 consejos y orientaciones para gestionar la evaluacion y especi
 ficacion
  []
 
 [4]
-Overfull \hbox (3.31125pt too wide) in paragraph at lines 121--122
+Overfull \hbox (3.31125pt too wide) in paragraph at lines 117--118
 []\OT1/cmr/m/n/12 ISO/IEC 25020 - Measurement reference model and guide: presen
 ta
  []
 
 
-Overfull \hbox (20.67496pt too wide) in paragraph at lines 123--124
+Overfull \hbox (20.67496pt too wide) in paragraph at lines 119--120
 []\OT1/cmr/m/n/12 ISO/IEC 25022 - Measurement of quality in use: define espec
 ficamente
  []
 
 
-Overfull \hbox (6.49306pt too wide) in paragraph at lines 124--125
+Overfull \hbox (6.49306pt too wide) in paragraph at lines 120--121
 \OT1/cmr/m/n/12 quality: define especficamente las metricas para realizar la
  medicion
  []
 
 
-Overfull \hbox (14.73474pt too wide) in paragraph at lines 125--126
+Overfull \hbox (14.73474pt too wide) in paragraph at lines 121--122
 []\OT1/cmr/m/n/12 ISO/IEC 25024 - Measurement of data quality: define especfi
 camente
  []
 
-[5]
-Overfull \hbox (1.98894pt too wide) in paragraph at lines 140--141
+
+Overfull \hbox (1.98894pt too wide) in paragraph at lines 136--137
 \OT1/cmr/m/n/12 las entradas al proceso de evaluacion, las restricciones y los
  recursos
  []
 
-
-Overfull \hbox (2.72792pt too wide) in paragraph at lines 143--144
+[5]
+Overfull \hbox (2.72792pt too wide) in paragraph at lines 139--140
 \OT1/cmr/m/n/12 25050 a ISO/IEC 25099) quedara reservada para normas o informe
 s
  []
 
 
-Overfull \hbox (2.9681pt too wide) in paragraph at lines 143--144
+Overfull \hbox (2.9681pt too wide) in paragraph at lines 139--140
 \OT1/cmr/m/n/12 puedan ser utilizados para complementar otras normas de la fami
 lia
  []
@@ -492,7 +482,7 @@ port/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/jp
 acora/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsf
 onts/cm/cmti10.pfb></Users/jpacora/Library/Application Support/MiKTeX/texmfs/in
 stall/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on index.pdf (6 pages, 102725 bytes).
+Output written on index.pdf (6 pages, 102604 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
